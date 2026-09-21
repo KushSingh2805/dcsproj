@@ -1,4 +1,0 @@
-M_QAM,Channel,BER_conventional,BER_GSQAM,BER_change_pct,BER_verdict,SER_conventional,SER_GSQAM,SER_change_pct,SER_verdict,EVM_pct_conventional,EVM_pct_GSQAM,EVM_change_pct,EVM_verdict
-64,AWGN,0,0,0,no significant change,0,0,0,no significant change,4.08117697365202,4.08116303456629,0.000341545731050097,no significant change
-64,Rayleigh,0.010675,0.0106066666666667,0.640124902419985,0.6% reduction (GS-QAM better),0.0492,0.0488,0.813008130081296,0.8% reduction (GS-QAM better),17.7369171665318,17.7366995737674,0.00122677894017836,no significant change
-64,Rician,0.00279333333333333,0.00275333333333333,1.43198090692124,1.4% reduction (GS-QAM better),0.01387,0.0137,1.22566690699351,1.2% reduction (GS-QAM better),7.34324420984428,7.34339766809073,-0.0020897881380733,no significant change
